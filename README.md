@@ -67,6 +67,8 @@ Adult (18+) new enrolment is minimal in most records — most adult-related acti
 A small number of states account for a disproportionately large share of total Aadhaar activity.
 Enrolment-heavy states and update-heavy states are not always the same — the two needs are geographically distinct.
 Certain dates show unusual spikes/drops in total activity, worth investigating as camps, drives, or possible data issues.
+
+
 ✅ Recommendation
 
 Districts should not be treated uniformly. States/districts still showing strong new-enrolment activity should be prioritized for new enrolment camps, while update-dominated districts should be prioritized for biometric/demographic update camps — making resource planning more targeted and efficient.
